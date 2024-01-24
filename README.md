@@ -36,3 +36,5 @@ https://sourceforge.net/projects/clip-angel/
 
 ## disable admin check 
 reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
+
+## copy path 
