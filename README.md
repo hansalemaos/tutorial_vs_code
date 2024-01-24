@@ -2,6 +2,10 @@
 ## clink for cmd history:
 https://github.com/chrisant996/clink/releases/tag/v1.6.1
 
+## install vtm 
+https://github.com/directvt/vtm
+vtm -i
+
 ## wget
 https://gnuwin32.sourceforge.net/packages/wget.htm
 
