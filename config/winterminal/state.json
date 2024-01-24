@@ -1,0 +1,36 @@
+{
+	"dismissedMessages" : 
+	[
+		"setAsDefault"
+	],
+	"generatedProfiles" : 
+	[
+		"{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
+		"{a4382644-d5be-5373-9108-2d9d95865e14}",
+		"{c6a5a993-9bcc-5631-9f99-fcb4692d94cd}"
+	],
+	"persistedWindowLayouts" : 
+	[
+		{
+			"initialPosition" : "-31992,-32000",
+			"initialSize" : 
+			{
+				"height" : 597.0,
+				"width" : 1285.0
+			},
+			"launchMode" : "default",
+			"tabLayout" : 
+			[
+				{
+					"action" : "newTab",
+					"commandline" : "\"C:\\WINDOWS\\system32\\cmd.exe\" ",
+					"profile" : "Command Prompt",
+					"startingDirectory" : "C:\\Users\\xxx",
+					"suppressApplicationTitle" : false,
+					"tabTitle" : "Command Prompt"
+				}
+			]
+		}
+	],
+	"settingsHash" : "4bf00f897bb2211a-01da4e69eb28b4b0"
+}

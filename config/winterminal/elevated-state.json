@@ -1,0 +1,29 @@
+{
+	"persistedWindowLayouts" : 
+	[
+		{
+			"initialPosition" : "1,2",
+			"initialSize" : 
+			{
+				"height" : 648.0,
+				"width" : 1280.0
+			},
+			"launchMode" : "default",
+			"tabLayout" : 
+			[
+				{
+					"action" : "newTab",
+					"commandline" : "%SystemRoot%\\System32\\cmd.exe",
+					"profile" : "Command Prompt",
+					"startingDirectory" : "C:\\Users\\xxx",
+					"suppressApplicationTitle" : false,
+					"tabTitle" : "Command Prompt"
+				},
+				{
+					"action" : "openSettings",
+					"target" : "settingsUI"
+				}
+			]
+		}
+	]
+}
