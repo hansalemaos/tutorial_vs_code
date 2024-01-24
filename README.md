@@ -31,6 +31,10 @@ Set-ExecutionPolicy restricted
 
 choco install vscode sysinternals mingw cmake.install llvm zig visualstudio2022buildtools advanced-bat-to-exe-converter conan boost-msvc-14.3 vscode-pylance ripgrep fzf zoxide vscodium.install smartftp fd --yes --accept-license --allow-unofficial
 
+```
+example: fd "^n.*py$"
+```
+
 ## Windows terminal 
 https://github.com/microsoft/terminal
 
