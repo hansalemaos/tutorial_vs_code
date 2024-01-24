@@ -62,5 +62,13 @@ choco install cygwin cyg-get
 ## extensions
 
 https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
-
-
+https://docs.pieces.app/installation-getting-started/windows
+https://code.pieces.app/plugins/vscode
+https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring
+???
+https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager&ssr=false#review-details
+https://marketplace.visualstudio.com/items?itemName=ms-python.black-formatter
+https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
+https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode#review-details
+https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
+https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff
