@@ -8,6 +8,9 @@ https://gnuwin32.sourceforge.net/packages/wget.htm
 ## install anaconda (add to path and all users)
 https://www.anaconda.com/download
 
+### install in base 
+pip install jedi black ipython --user
+
 ## choco 
 https://community.chocolatey.org/
 
@@ -20,4 +23,16 @@ Get-ExecutionPolicy
 Set-ExecutionPolicy unrestricted
 Set-ExecutionPolicy restricted
 
+## install choco packages (powershell admin!!)
 
+choco install vscode sysinternals mingw cmake.install llvm zig visualstudio2022buildtools advanced-bat-to-exe-converter conan boost-msvc-14.3 vscode-pylance ripgrep fzf zoxide vscodium.install smartftp fd --yes --accept-license --allow-unofficial
+
+## Windows terminal 
+https://github.com/microsoft/terminal
+
+## useful extras 
+
+https://sourceforge.net/projects/clip-angel/
+
+## disable admin check 
+reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
