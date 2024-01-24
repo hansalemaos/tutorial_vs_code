@@ -72,3 +72,4 @@ https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
 https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode#review-details
 https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
 https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff
+https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks
