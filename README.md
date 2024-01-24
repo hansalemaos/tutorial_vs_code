@@ -35,6 +35,9 @@ https://github.com/microsoft/terminal
 https://sourceforge.net/projects/clip-angel/
 
 ## disable admin check 
+
 reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
 
 ## copy path 
+
+https://github.com/hansalemaos/tutorial_vs_code/raw/main/Add_Copy_Full_Path_to_context_menu.reg
