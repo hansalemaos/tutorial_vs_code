@@ -18,6 +18,43 @@
     "accessibility.dimUnfocused.opacity": 1,
     "terminal.integrated.accessibleViewFocusOnCommandExecution": true,
     "terminal.integrated.accessibleViewPreserveCursorPosition": true,
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+    
+
+
+
+    
     "terminal.external.windowsExec": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.18.3181.0_x64__8wekyb3d8bbwe\\WindowsTerminal.exe",
     "editor.accessibilityPageSize": 1,
     "editor.accessibilitySupport": "off",
@@ -137,5 +174,12 @@
         "C:\\ProgramData\\anaconda3\\Scripts\\ruff.exe"
     ],
     "ruff.showNotifications": "always",
-    "ruff.trace.server": "verbose"
+    "ruff.trace.server": "verbose",
+    "python.analysis.userFileIndexingLimit": -1,
+    "python.analysis.persistAllIndices": true,
+    "python.analysis.typeCheckingMode": "strict",
+    "python.analysis.inlayHints.variableTypes": true,
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.autoFormatStrings": true
 }
