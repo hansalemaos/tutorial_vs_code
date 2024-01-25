@@ -175,11 +175,14 @@
     ],
     "ruff.showNotifications": "always",
     "ruff.trace.server": "verbose",
-    "python.analysis.userFileIndexingLimit": -1,
-    "python.analysis.persistAllIndices": true,
+    "python.analysis.userFileIndexingLimit": 1000,
     "python.analysis.typeCheckingMode": "strict",
     "python.analysis.inlayHints.variableTypes": true,
     "python.analysis.inlayHints.functionReturnTypes": true,
     "python.analysis.autoImportCompletions": true,
-    "python.analysis.autoFormatStrings": true
+    "bookmarks.keepBookmarksOnLineDelete": true,
+    "bookmarks.sideBar.expanded": true,
+    "python.analysis.enablePytestSupport": false,
+    "python.analysis.gotoDefinitionInStringLiteral": true,
+    "python.analysis.indexing": false
 }

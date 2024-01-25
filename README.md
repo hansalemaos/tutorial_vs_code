@@ -148,7 +148,7 @@ tested: naumovs.color-highlight
 @ext:njpwerner.autodocstring
 @ext:aaron-bond.better-comments
 @ext:alefragnani.Bookmarks
-
+@ext:johnpapa.vscode-peacock
 ```python 
 # file on my hdd: C:\Users\xxx\.vscode\extensions\charliermarsh.ruff-2024.2.0-win32-x64\bundled\libs\ruff_lsp\server.py
 # Hack 1:
