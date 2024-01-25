@@ -1,11 +1,9 @@
 {
-    "window.zoomLevel": -0.1,
     "files.autoSave": "afterDelay",
     "code-runner.runInTerminal": true,
     "editor.autoClosingBrackets": "always",
     "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
     "editor.columnSelection": true,
-    "editor.defaultFormatter": "formulahendry.code-runner",
     "cmake.showOptionsMovedNotification": false,
     "workbench.startupEditor": "none",
     "terminal.explorerKind": "external",
@@ -20,43 +18,6 @@
     "accessibility.dimUnfocused.opacity": 1,
     "terminal.integrated.accessibleViewFocusOnCommandExecution": true,
     "terminal.integrated.accessibleViewPreserveCursorPosition": true,
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-
-    
-
-
-
-    
     "terminal.external.windowsExec": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.18.3181.0_x64__8wekyb3d8bbwe\\WindowsTerminal.exe",
     "editor.accessibilityPageSize": 1,
     "editor.accessibilitySupport": "off",
@@ -100,7 +61,7 @@
     "editor.suggest.matchOnWordStartOnly": false,
     "editor.suggest.preview": true,
     "editor.suggest.shareSuggestSelections": true,
-    "editor.suggestSelection": "recentlyUsed",
+    "editor.suggestSelection": "first",
     "files.autoGuessEncoding": true,
     "files.defaultLanguage": "Python",
     "files.hotExit": "off",
@@ -158,5 +119,23 @@
     "terminal.integrated.ignoreBracketedPasteMode": true,
     "terminal.integrated.windowsEnableConpty":true,
     "accessibility.hideAccessibleView": true,
-    "security.workspace.trust.untrustedFiles": "open"
+    "security.workspace.trust.untrustedFiles": "open",
+    "pieces.setCopilotLocation": true,
+    "vsintellicode.modify.editor.suggestSelection": "choseToUpdateConfiguration",
+    "[python]": {
+        "editor.defaultFormatter": "charliermarsh.ruff"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "window.zoomLevel": -0.1,
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "bookmarks.useWorkaroundForFormatters": true,
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "ruff.interpreter": [
+        "C:\\ProgramData\\anaconda3\\python.exe"
+    ],
+    "ruff.path": [
+        "C:\\ProgramData\\anaconda3\\Scripts\\ruff.exe"
+    ],
+    "ruff.showNotifications": "always",
+    "ruff.trace.server": "verbose"
 }
