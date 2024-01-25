@@ -165,7 +165,6 @@
     "window.zoomLevel": -0.1,
     "C_Cpp.intelliSenseEngine": "disabled",
     "bookmarks.useWorkaroundForFormatters": true,
-    "editor.defaultFormatter": "charliermarsh.ruff",
     "ruff.interpreter": [
         "C:\\ProgramData\\anaconda3\\python.exe"
     ],
@@ -174,6 +173,7 @@
     ],
     "ruff.showNotifications": "always",
     "ruff.trace.server": "verbose",
+    "ruff.ignoreStandardLibrary": false,
     "python.analysis.userFileIndexingLimit": 1000,
     "python.analysis.typeCheckingMode": "strict",
     "python.analysis.inlayHints.variableTypes": true,
@@ -183,5 +183,7 @@
     "bookmarks.sideBar.expanded": true,
     "python.analysis.enablePytestSupport": false,
     "python.analysis.gotoDefinitionInStringLiteral": true,
-    "python.analysis.indexing": false
+    "python.analysis.indexing": false,
+    "clangd.checkUpdates": true,
+    "clangd.path": "c:\\Users\\xxx\\AppData\\Roaming\\Code\\User\\globalStorage\\llvm-vs-code-extensions.vscode-clangd\\install\\17.0.3\\clangd_17.0.3\\bin\\clangd.exe",
 }
