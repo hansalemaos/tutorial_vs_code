@@ -144,3 +144,40 @@ tested: naumovs.color-highlight
 @id:mechatroner.rainbow-csv
 @ext:MeshIntelligentTechnologiesInc.pieces-vscode
 @ext:Atishay-Jain.All-Autocomplete
+
+
+```python 
+# file on my hdd: C:\Users\xxx\.vscode\extensions\charliermarsh.ruff-2024.2.0-win32-x64\bundled\libs\ruff_lsp\server.py
+# Hack 1:
+# Comment out:
+
+if document.is_stdlib_file():
+   log_warning(f"Skipping standard library file: {document.path}")
+   return None
+
+# updated code should look like:
+
+async def _run_format_on_document(document: Document) -> ExecutableResult | None:
+    """Runs the Ruff `format` subcommand on the given document source."""
+    # if document.is_stdlib_file():
+    #    log_warning(f"Skipping standard library file: {document.path}")
+    #    return None
+	
+async def _run_check_on_document(
+    document: Document,
+    *,
+    extra_args: Sequence[str] = [],
+    only: Sequence[str] | None = None,
+) -> ExecutableResult | None:
+    """Runs the Ruff `check` subcommand  on the given document source."""
+    # if document.is_stdlib_file():
+    #    log_warning(f"Skipping standard library file: {document.path}")
+    #    return None
+
+# Hack 2 (not tested):
+
+def is_stdlib_file(self) -> bool:
+	"""Return True if the document belongs to standard library."""
+	return False # add this line
+	return utils.is_stdlib_file(self.path) # ignored now (could be deleted)
+```
