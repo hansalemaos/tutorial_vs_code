@@ -13,7 +13,7 @@ https://gnuwin32.sourceforge.net/packages/wget.htm
 https://www.anaconda.com/download
 
 ### install in base 
-pip install jedi black ipython --user
+pip install jedi black ruff ipython --user
 
 ## choco 
 https://community.chocolatey.org/
