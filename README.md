@@ -146,6 +146,8 @@ tested: naumovs.color-highlight
 @ext:Atishay-Jain.All-Autocomplete
 @ext:charliermarsh.ruff
 @ext:njpwerner.autodocstring
+@ext:aaron-bond.better-comments
+@ext:alefragnani.Bookmarks
 
 ```python 
 # file on my hdd: C:\Users\xxx\.vscode\extensions\charliermarsh.ruff-2024.2.0-win32-x64\bundled\libs\ruff_lsp\server.py
