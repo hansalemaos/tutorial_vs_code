@@ -141,3 +141,6 @@ yzhang.markdown-all-in-one
 
 
 tested: naumovs.color-highlight
+@id:mechatroner.rainbow-csv
+@ext:MeshIntelligentTechnologiesInc.pieces-vscode
+@ext:Atishay-Jain.All-Autocomplete
