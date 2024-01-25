@@ -3,7 +3,6 @@
     "code-runner.runInTerminal": true,
     "editor.autoClosingBrackets": "always",
     "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
-    "editor.columnSelection": true,
     "cmake.showOptionsMovedNotification": false,
     "workbench.startupEditor": "none",
     "terminal.explorerKind": "external",
