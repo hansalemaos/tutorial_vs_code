@@ -75,7 +75,7 @@ https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff
 https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks
 https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager
 https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
-
+https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock
 https://kinsta.com/blog/vscode-extensions/
 
 
@@ -138,3 +138,6 @@ woozy-masta.shell-script-ide
 wwm.better-align
 xshrim.txt-syntax
 yzhang.markdown-all-in-one
+
+
+tested: naumovs.color-highlight
