@@ -84,7 +84,7 @@ vscode.github
 vscode.git-base
 naumovs.color-highlight
 GuiExtensions.tosingleline
-
+Codeium.codeium
 
 ```python 
 # file on my hdd: C:\Users\xxx\.vscode\extensions\charliermarsh.ruff-2024.2.0-win32-x64\bundled\libs\ruff_lsp\server.py
