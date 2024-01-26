@@ -78,7 +78,7 @@
     "workbench.localHistory.maxFileEntries": 5000,
     "workbench.localHistory.maxFileSize": 8192,
     "workbench.reduceMotion": "on",
-    "workbench.colorTheme": "Dark Chai",
+    "workbench.colorTheme": "Dracula",
     "workbench.tips.enabled": false,
     "workbench.tree.enableStickyScroll": true,
     "workbench.editor.autoLockGroups": {
