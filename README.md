@@ -88,6 +88,11 @@ Codeium.codeium
 vscode-icons-team.vscode-icons
 vscode.debug-auto-launch
 micnil.vscode-checkpoints
+stkb.rewrap
+vscode.grunt
+vscode.debug-auto-launch
+vscode.gulp
+
 ```python 
 # file on my hdd: C:\Users\xxx\.vscode\extensions\charliermarsh.ruff-2024.2.0-win32-x64\bundled\libs\ruff_lsp\server.py
 # Hack 1:
