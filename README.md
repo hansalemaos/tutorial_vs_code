@@ -105,6 +105,7 @@ Wscats.command-runner
 Gruntfuggly.activitusbar
 albymor.increment-selection
 vsls-contrib.gistfs
+Tyriar.luna-paint
 ```python 
 # file on my hdd: C:\Users\xxx\.vscode\extensions\charliermarsh.ruff-2024.2.0-win32-x64\bundled\libs\ruff_lsp\server.py
 # Hack 1:
@@ -140,3 +141,7 @@ def is_stdlib_file(self) -> bool:
 	return False # add this line
 	return utils.is_stdlib_file(self.path) # ignored now (could be deleted)
 ```
+
+
+app for double auth:
+https://play.google.com/store/apps/details?id=com.authy.authy&hl=en&pli=1
