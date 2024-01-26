@@ -60,6 +60,31 @@ https://github.com/hansalemaos/tutorial_vs_code/raw/main/Add_Copy_Full_Path_to_c
 ## extensions
 
 tested: 
+ms-python.vscode-pylance
+llvm-vs-code-extensions.vscode-clangd
+mads-hartmann.bash-ide-vscode
+MeshIntelligentTechnologiesInc.pieces-vscode
+ms-python.python
+vscode.typescript-language-features
+njpwerner.autodocstring
+ktnrg45.vscode-cython
+vscode.json-language-features
+charliermarsh.ruff
+vscode.git
+aaron-bond.better-comments
+vscode.github-authentication
+johnpapa.vscode-peacock
+vscode.merge-conflict
+mechatroner.rainbow-csv
+Atishay-Jain.All-Autocomplete
+alefragnani.Bookmarks
+vscode.emmet
+vscode.debug-auto-launch
+vscode.github
+vscode.git-base
+naumovs.color-highlight
+
+
 naumovs.color-highlight
 mechatroner.rainbow-csv
 MeshIntelligentTechnologiesInc.pieces-vscode
