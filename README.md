@@ -83,17 +83,7 @@ vscode.debug-auto-launch
 vscode.github
 vscode.git-base
 naumovs.color-highlight
-
-
-naumovs.color-highlight
-mechatroner.rainbow-csv
-MeshIntelligentTechnologiesInc.pieces-vscode
-Atishay-Jain.All-Autocomplete
-charliermarsh.ruff
-njpwerner.autodocstring
-aaron-bond.better-comments
-alefragnani.Bookmarks
-johnpapa.vscode-peacock
+GuiExtensions.tosingleline
 
 
 ```python 
