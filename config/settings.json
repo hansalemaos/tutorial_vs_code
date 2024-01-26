@@ -128,19 +128,10 @@
     "window.zoomLevel": -0.1,
     "C_Cpp.intelliSenseEngine": "disabled",
     "bookmarks.useWorkaroundForFormatters": true,
-    "ruff.interpreter": [
-        "C:\\ProgramData\\anaconda3\\python.exe"
-    ],
-    "ruff.path": [
-        "C:\\ProgramData\\anaconda3\\Scripts\\ruff.exe"
-    ],
     "ruff.showNotifications": "always",
     "ruff.trace.server": "verbose",
     "ruff.ignoreStandardLibrary": false,
     "python.analysis.userFileIndexingLimit": 1000,
-    "python.analysis.typeCheckingMode": "strict",
-    "python.analysis.inlayHints.variableTypes": true,
-    "python.analysis.inlayHints.functionReturnTypes": true,
     "python.analysis.autoImportCompletions": true,
     "bookmarks.keepBookmarksOnLineDelete": true,
     "bookmarks.sideBar.expanded": true,
@@ -158,5 +149,13 @@
     },
     "checkpoints.addCheckpointOnSave": true,
     "checkpoints.locale": "pt-BR",
-    "rewrap.wrappingColumn": 72
+    "rewrap.wrappingColumn": 72,
+    "vscode-color-picker.languages": [
+        "python",
+        "javascript",
+        "typescript","C"
+    ],
+    "workbench.activityBar.location": "top",
+    "python.analysis.addImport.exactMatchOnly": true,
+
 }
