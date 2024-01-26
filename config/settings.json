@@ -47,7 +47,7 @@
     "diffEditor.maxComputationTime": 0,
     "diffEditor.maxFileSize": 0,
     "multiDiffEditor.experimental.enabled": true,
-    "editor.minimap.scale": 3,
+    "editor.minimap.scale": 1,
     "editor.inlineSuggest.showToolbar": "always",
     "editor.quickSuggestions": {
         "other": "on",
@@ -78,7 +78,7 @@
     "workbench.localHistory.maxFileEntries": 5000,
     "workbench.localHistory.maxFileSize": 8192,
     "workbench.reduceMotion": "on",
-    "workbench.colorTheme": "Default Light Modern",
+    "workbench.colorTheme": "Dark Chai",
     "workbench.tips.enabled": false,
     "workbench.tree.enableStickyScroll": true,
     "workbench.editor.autoLockGroups": {
@@ -156,4 +156,7 @@
         
         "*": true
     },
+    "checkpoints.addCheckpointOnSave": true,
+    "checkpoints.locale": "pt-BR",
+    "rewrap.wrappingColumn": 72
 }
