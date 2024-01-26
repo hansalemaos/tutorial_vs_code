@@ -107,6 +107,7 @@ albymor.increment-selection
 vsls-contrib.gistfs
 Tyriar.luna-paint
 nick-rudenko.back-n-forth
+tomoki1207.vscode-input-sequence
 ```python 
 # file on my hdd: C:\Users\xxx\.vscode\extensions\charliermarsh.ruff-2024.2.0-win32-x64\bundled\libs\ruff_lsp\server.py
 # Hack 1:
