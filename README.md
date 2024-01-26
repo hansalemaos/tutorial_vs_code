@@ -86,7 +86,7 @@ vscode.git-base
 naumovs.color-highlight
 GuiExtensions.tosingleline
 Codeium.codeium
-vscode-icons-team.vscode-icons
+PKief.material-icon-theme
 vscode.debug-auto-launch
 micnil.vscode-checkpoints
 stkb.rewrap
