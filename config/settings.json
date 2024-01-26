@@ -17,43 +17,6 @@
     "accessibility.dimUnfocused.opacity": 1,
     "terminal.integrated.accessibleViewFocusOnCommandExecution": true,
     "terminal.integrated.accessibleViewPreserveCursorPosition": true,
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-
-    
-
-
-
-    
     "terminal.external.windowsExec": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.18.3181.0_x64__8wekyb3d8bbwe\\WindowsTerminal.exe",
     "editor.accessibilityPageSize": 1,
     "editor.accessibilitySupport": "off",
@@ -153,7 +116,7 @@
     "terminal.integrated.defaultLocation": "editor",
     "terminal.integrated.defaultProfile.windows": "Command Prompt",
     "terminal.integrated.ignoreBracketedPasteMode": true,
-    "terminal.integrated.windowsEnableConpty":true,
+    "terminal.integrated.windowsEnableConpty": true,
     "accessibility.hideAccessibleView": true,
     "security.workspace.trust.untrustedFiles": "open",
     "pieces.setCopilotLocation": true,
