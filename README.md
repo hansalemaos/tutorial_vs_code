@@ -102,6 +102,7 @@ sleistner.vscode-fileutils
 AntiAntiSepticeye.vscode-color-picker
 jinsihou.diff-tool
 Wscats.command-runner
+Gruntfuggly.activitusbar
 ```python 
 # file on my hdd: C:\Users\xxx\.vscode\extensions\charliermarsh.ruff-2024.2.0-win32-x64\bundled\libs\ruff_lsp\server.py
 # Hack 1:
