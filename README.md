@@ -56,6 +56,7 @@ reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v En
 
 https://github.com/hansalemaos/tutorial_vs_code/raw/main/Add_Copy_Full_Path_to_context_menu.reg
 
+## theme https://marketplace.visualstudio.com/items?itemName=hiteshchoudharycode.chai-theme
 
 ## extensions
 
