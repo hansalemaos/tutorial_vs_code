@@ -131,16 +131,14 @@
     "ruff.showNotifications": "always",
     "ruff.trace.server": "verbose",
     "ruff.ignoreStandardLibrary": false,
-    "python.analysis.userFileIndexingLimit": 1000,
+    "python.analysis.userFileIndexingLimit": -1,
     "python.analysis.autoImportCompletions": true,
     "bookmarks.keepBookmarksOnLineDelete": true,
     "bookmarks.sideBar.expanded": true,
     "python.analysis.enablePytestSupport": false,
     "python.analysis.gotoDefinitionInStringLiteral": true,
-    "python.analysis.indexing": false,
     "clangd.checkUpdates": true,
     "clangd.path": "c:\\Users\\xxx\\AppData\\Roaming\\Code\\User\\globalStorage\\llvm-vs-code-extensions.vscode-clangd\\install\\17.0.3\\clangd_17.0.3\\bin\\clangd.exe",
-    "python.analysis.autoFormatStrings": true,
     "python.analysis.completeFunctionParens": true,
     "bashIde.shellcheckPath": "C:\\ProgramData\\chocolatey\\bin\\shellcheck.exe",
     "codeium.enableConfig": {
@@ -156,7 +154,6 @@
         "C"
     ],
     "workbench.activityBar.location": "top",
-    "python.analysis.addImport.exactMatchOnly": true,
     "python.languageServer": "Pylance",
     "python.analysis.diagnosticSeverityOverrides": {
         "strictListInference": "none",
@@ -248,5 +245,10 @@
         "reportMatchNotExhaustive": "none",
         "reportImplicitOverride": "none",
         "reportShadowedImports": "none",
-    }
+    },
+    "python.analysis.inlayHints.variableTypes": false,
+    "python.analysis.inlayHints.pytestParameters": false,
+    "python.analysis.inlayHints.functionReturnTypes": false,
+    "python.analysis.persistAllIndices": false,
+    "python.analysis.logLevel": "Error"
 }
