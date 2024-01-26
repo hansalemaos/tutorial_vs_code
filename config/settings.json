@@ -124,7 +124,7 @@
     "[python]": {
         "editor.defaultFormatter": "charliermarsh.ruff"
     },
-    "workbench.iconTheme": "vscode-icons",
+    "workbench.iconTheme": "material-icon-theme",
     "window.zoomLevel": -0.1,
     "C_Cpp.intelliSenseEngine": "disabled",
     "bookmarks.useWorkaroundForFormatters": true,
