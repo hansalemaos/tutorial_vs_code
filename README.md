@@ -4,6 +4,8 @@
 https://github.com/massgravel/Microsoft-Activation-Scripts
 irm https://massgrave.dev/get | iex
 
+## create github account
+
 ## install vtm 
 https://github.com/directvt/vtm
 vtm -i
@@ -113,6 +115,7 @@ qcz.text-power-tools
 StackspotAI.StackSpotAI
 oderwat.indent-rainbow
 lixquid.calculator
+kisstkondoros.vscode-gutter-preview
 ```python 
 # file on my hdd: C:\Users\xxx\.vscode\extensions\charliermarsh.ruff-2024.2.0-win32-x64\bundled\libs\ruff_lsp\server.py
 # Hack 1:
