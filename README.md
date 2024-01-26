@@ -31,7 +31,7 @@ Set-ExecutionPolicy restricted
 
 ## install choco packages (powershell admin!!)
 
-choco install cygwin cyg-get vscode sysinternals mingw cmake.install llvm zig visualstudio2022buildtools advanced-bat-to-exe-converter conan boost-msvc-14.3 vscode-pylance ripgrep fzf zoxide smartftp fd git.install nodejs.install wget nodejs jdk8 putty.install microsoft-windows-terminal curl make dotnetcore dotnet-sdk vcredist140 rust-ms netfx-4.7.2 ripgrep-all clink-maintained conemu --yes --accept-license --allow-unofficial
+choco install cygwin cyg-get vscode sysinternals mingw cmake.install llvm zig visualstudio2022buildtools advanced-bat-to-exe-converter conan boost-msvc-14.3 vscode-pylance ripgrep fzf zoxide smartftp fd git.install nodejs.install wget nodejs jdk8 putty.install microsoft-windows-terminal curl make dotnetcore dotnet-sdk vcredist140 rust-ms netfx-4.7.2 ripgrep-all clink-maintained conemu shellcheck --yes --accept-license --allow-unofficial
 
 ```
 example: fd "^n.*py$"
