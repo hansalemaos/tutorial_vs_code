@@ -1,5 +1,9 @@
 # tutorial_vs_code
 
+## activation script
+https://github.com/massgravel/Microsoft-Activation-Scripts
+irm https://massgrave.dev/get | iex
+
 ## install vtm 
 https://github.com/directvt/vtm
 vtm -i
