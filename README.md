@@ -110,6 +110,7 @@ nick-rudenko.back-n-forth
 tomoki1207.vscode-input-sequence
 usernamehw.indent-one-space
 qcz.text-power-tools
+StackspotAI.StackSpotAI
 
 ```python 
 # file on my hdd: C:\Users\xxx\.vscode\extensions\charliermarsh.ruff-2024.2.0-win32-x64\bundled\libs\ruff_lsp\server.py
