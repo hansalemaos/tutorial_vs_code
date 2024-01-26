@@ -97,6 +97,7 @@ dracula-theme.theme-dracula
 Tyriar.sort-lines
 qwtel.sqlite-viewer
 L13RARY.l13-diff
+artdiniz.quitcontrol-vscode
 ```python 
 # file on my hdd: C:\Users\xxx\.vscode\extensions\charliermarsh.ruff-2024.2.0-win32-x64\bundled\libs\ruff_lsp\server.py
 # Hack 1:
