@@ -126,6 +126,7 @@ shardulm94.trailing-spaces
 doggy8088.quicktype-refresh
 RoscoP.ActiveFileInStatusBar
 EdgardMessias.clipboard-manager
+ryu1kn.text-marker
 ```python 
 # file on my hdd: C:\Users\xxx\.vscode\extensions\charliermarsh.ruff-2024.2.0-win32-x64\bundled\libs\ruff_lsp\server.py
 # Hack 1:
