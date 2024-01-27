@@ -117,6 +117,7 @@ oderwat.indent-rainbow
 lixquid.calculator
 kisstkondoros.vscode-gutter-preview
 ExodiusStudios.comment-anchors
+cliffordfajardo.highlight-line-vscode
 ```python 
 # file on my hdd: C:\Users\xxx\.vscode\extensions\charliermarsh.ruff-2024.2.0-win32-x64\bundled\libs\ruff_lsp\server.py
 # Hack 1:
