@@ -250,5 +250,6 @@
     "python.analysis.inlayHints.pytestParameters": false,
     "python.analysis.inlayHints.functionReturnTypes": false,
     "python.analysis.persistAllIndices": false,
-    "python.analysis.logLevel": "Error"
+    "python.analysis.logLevel": "Error",
+    "explorerExclude.showPicker": false,
 }
