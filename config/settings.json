@@ -253,7 +253,8 @@
     "explorerExclude.showPicker": false,
     "workbench.activityBar.location": "top",
     "ruff.lint.args": [
-        "--select=ALL", "--extend-select=ALL"
+        "--select=ALL", "--extend-select=UP",
+        "--fix", "--unsafe-fixes"
     ],
 
 }
