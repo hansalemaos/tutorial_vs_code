@@ -153,7 +153,6 @@
         "typescript",
         "C"
     ],
-    "workbench.activityBar.location": "top",
     "python.languageServer": "Pylance",
     "python.analysis.diagnosticSeverityOverrides": {
         "strictListInference": "none",
@@ -252,4 +251,9 @@
     "python.analysis.persistAllIndices": false,
     "python.analysis.logLevel": "Error",
     "explorerExclude.showPicker": false,
+    "workbench.activityBar.location": "top",
+    "ruff.lint.args": [
+        "--select=ALL", "--extend-select=ALL"
+    ],
+
 }
