@@ -48,7 +48,9 @@ example: fd "^n.*py$"
 
 
 
-choco upgrade powertoys dxwnd exiftool dnsproxy winscp cppcheck
+choco upgrade powertoys dxwnd exiftool dnsproxy winscp cppcheck --yes --accept-license --allow-unofficial
+
+
 https://sourceforge.net/projects/clip-angel/
 
 ## disable admin check 
