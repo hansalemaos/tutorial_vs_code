@@ -103,6 +103,11 @@ choco upgrade powertoys dxwnd exiftool dnsproxy winscp cppcheck --yes --accept-l
 https://sourceforge.net/projects/clip-angel/
 ```
 
+## mysys64
+```
+https://www.msys2.org/
+```
+
 ## copy path 
 ```
 https://github.com/hansalemaos/tutorial_vs_code/raw/main/Add_Copy_Full_Path_to_context_menu.reg
@@ -1347,4 +1352,6 @@ endlocal
 ```
 call "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\Build\vcvarsall.bat" x64
 ```
+
+
 
