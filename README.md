@@ -46,13 +46,9 @@ example: fd "^n.*py$"
 
 ## useful extras 
 
-powertoys 
-dxwnd
-exiftool
-dnsproxy
-winscp
-cppcheck
-choco install conemu
+
+
+choco upgrade powertoys dxwnd exiftool dnsproxy winscp cppcheck
 https://sourceforge.net/projects/clip-angel/
 
 ## disable admin check 
