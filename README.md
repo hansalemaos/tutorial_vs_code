@@ -110,7 +110,28 @@ https://www.msys2.org/
 
 ## copy path 
 ```
-https://github.com/hansalemaos/tutorial_vs_code/raw/main/Add_Copy_Full_Path_to_context_menu.reg
+﻿Windows Registry Editor Version 5.00
+
+; Created by: Shawn Brink
+; Created on: December 30th 2016
+; Modified on: November 27th 2017
+; Tutorial: https://www.tenforums.com/tutorials/73649-copy-path-add-context-menu-windows-10-a.html
+
+
+[HKEY_CLASSES_ROOT\AllFilesystemObjects\shell\windows.copyaspath]
+"CanonicalName"="{707C7BC6-685A-4A4D-A275-3966A5A3EFAA}"
+"CommandStateHandler"="{3B1599F9-E00A-4BBF-AD3E-B3F99FA87779}"
+"CommandStateSync"=""
+"Description"="@shell32.dll,-30336"
+"Icon"="imageres.dll,-5302"
+"InvokeCommandOnSelection"=dword:00000001
+"MUIVerb"="Copy Full Path"
+"VerbHandler"="{f3d06e7c-1e45-4a26-847e-f9fcdee59be0}"
+"VerbName"="copyaspath"
+
+[HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers\CopyAsPathMenu]
+@="{f3d06e7c-1e45-4a26-847e-f9fcdee59be0}"
+
 ```
 
 ## theme 
