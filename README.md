@@ -74,7 +74,7 @@ https://www.anaconda.com/download
 
 ### install in base 
 ```
-pip install jedi black ruff ipython --user
+pip install jedi black ruff ipython ripgreppythonfiles --user
 ```
 
 ## choco 
@@ -1323,7 +1323,7 @@ if %choice% equ 0 (
  </config>
  ```
 
-## ripgrep py
+## ripgrep py C:\rgtt.bat
 
 ```
 batfile 
@@ -1334,14 +1334,14 @@ call python -c "from ripgreppythonfiles import rfile;rfile(r'''%*''')"
 https://github.com/hansalemaos/ripgreppythonfiles
 ```
 
-## ruff importfixer
+## ruff importfixer C:\rufffiximports.bat
 ```
 https://github.com/hansalemaos/ruffrgimportfixer
 
 python -c "from ruffrgimportfixer import fix_imports;fix_imports(r'''%*''')"
 ```
 
-## file search 
+## file search  c:\fa.bat
 
 ```
 @echo off
@@ -1369,7 +1369,7 @@ echo Results: !tempFile!
 
 endlocal
 ```
-## v64 
+## c:\v64.bat
 ```
 call "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\Build\vcvarsall.bat" x64
 ```
