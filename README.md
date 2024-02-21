@@ -25,7 +25,7 @@ irm https://massgrave.dev/get | iex
 ## install vtm 
 ```
 https://github.com/directvt/vtm
-vtm -i
+vtm --install
 ```
 ## wget (if not installed yet)
 ```
@@ -834,7 +834,7 @@ type nul >>%1 & copy %1 +,,
 }
 ```
 
-## menu.bat / exe 
+## c:\menu.bat / c:\menu.exe
 
 ```
 @echo off
@@ -1324,20 +1324,20 @@ if %choice% equ 0 (
  ```
 
 ## ripgrep py C:\rgtt.bat
+https://github.com/hansalemaos/ripgreppythonfiles
 
 ```
-batfile 
 
 call python -c "from ripgreppythonfiles import rfile;rfile(r'''%*''')"
 
-
-https://github.com/hansalemaos/ripgreppythonfiles
 ```
 
 ## ruff importfixer C:\rufffiximports.bat
-```
+
 https://github.com/hansalemaos/ruffrgimportfixer
 
+
+```
 python -c "from ruffrgimportfixer import fix_imports;fix_imports(r'''%*''')"
 ```
 
