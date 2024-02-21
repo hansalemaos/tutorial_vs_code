@@ -4,15 +4,21 @@
 ```
 Get-ExecutionPolicy 
 
+:: dangerous
 Set-ExecutionPolicy unrestricted
 
+:: to revert 
 Set-ExecutionPolicy restricted
 ```
 
 ## disable admin check 
 
 ```
+# dangerous 
 reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 0 /f
+
+# to revert 
+reg.exe ADD HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System /v EnableLUA /t REG_DWORD /d 1 /f
 ```
 
 ## activation script
