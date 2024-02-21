@@ -912,7 +912,7 @@ if %choice% equ 0 (
 	call conda config --set channel_priority disabled
 	call conda create -y -n !envname! python=!pyversion! pip ipython !packages!
 	echo call conda activate !envname! > !folderPath!\!envname!\si.bat
-	echo start cmd /k vtm -r cmd.exe >> !folderPath!\!envname!\si.bat
+	echo start cmd /k vtm -r term cmd.exe >> !folderPath!\!envname!\si.bat
 	
 	
 	set "form_logfile=!folderPath!\!envname!\ipythonlog.log
