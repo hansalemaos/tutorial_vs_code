@@ -926,7 +926,7 @@ if %choice% equ 0 (
 	echo call touch _____tmp.py >> !folderPath!\!envname!\ipy.bat
 	echo call ipython -i _____tmp.py -c="run %%1" --Completer.use_jedi=!form_use_jedi! --Completer.greedy=!form_greedy! --Completer.suppress_competing_matchers=!form_suppress_competing_matchers! --Completer.limit_to__all__=!form_limit_to__all__! --Completer.jedi_compute_type_timeout=!form_jedi_compute_type_timeout! --Completer.evaluation=!form_evaluation! --Completer.auto_close_dict_keys=!form_auto_close_dict_keys! --PlainTextFormatter.max_width=!form_max_width! --HistoryManager.hist_file=!form_hist_file! --HistoryManager.db_cache_size=!form_db_cache_size! --TerminalInteractiveShell.xmode=!form_xmode! --TerminalInteractiveShell.space_for_menu=!form_space_for_menu! --TerminalInteractiveShell.history_load_length=!form_history_load_length! --TerminalInteractiveShell.history_length=!form_history_length! --TerminalInteractiveShell.display_page=!form_display_page! --TerminalInteractiveShell.autoformatter=!form_autoformatter! --TerminalInteractiveShell.auto_match=!form_auto_match! --logappend=!form_logfile! --logfile=!form_logfile! --InteractiveShell.history_load_length=!form_history_load_length! --InteractiveShell.history_length=!form_history_length! --cache-size=!from_cache_size! --BaseIPythonApplication.log_level=!form_log_level! --colors=!form_colors! >> !folderPath!\!envname!\ipy.bat
 
-	echo call cmd /k vtm -r cmd /k ipy.bat %%1 >> !folderPath!\!envname!\fit.bat
+	echo call cmd /k vtm -r term cmd /k ipy.bat %%1 >> !folderPath!\!envname!\fit.bat
 	
 	endlocal
 	call %0
