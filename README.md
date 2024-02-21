@@ -1,5 +1,9 @@
 # tutorial_vs_code
 
+
+[![YT](https://i.ytimg.com/vi/q4XqnLR2OBM/maxresdefault.jpg)](https://www.youtube.com/watch?v=q4XqnLR2OBM)
+[https://www.youtube.com/watch?v=q4XqnLR2OBM]()
+
 ### change restrictions
 ```
 Get-ExecutionPolicy 
