@@ -1493,5 +1493,38 @@ endlocal
 call "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\Build\vcvarsall.bat" x64
 ```
 
+## for node.js 
+
+### create njs.bat in env folder
+
+```
+call cmd /k vtm -r term cmd /k node --interactive -r "%1"
+```
+### add to settings.json
+
+```
+    "openInExternalApp.openMapper": [
+        {
+            "extensionName": "py",
+            "apps": [
+                {
+                    "title": "IPYTHON",
+                    "openCommand": "fit.bat"
+                }
+            ]
+        },
+        {
+            "extensionName": "js",
+            "apps": [
+                {
+                    "title": "NODEJS",
+                    "openCommand": "njs.bat"
+                }
+            ]
+        },
+    ],
+```
+
+
 
 
